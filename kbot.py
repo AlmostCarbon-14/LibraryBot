@@ -27,7 +27,7 @@ def get_token():
         fil.close()
         return lines
 
-tok = "ODI2NTY1ODk4MzExNDM0Mjkw.YGOVew.o0VjSUsG5n5qk8XyIsKdJXL3_iA"
+tok = "ODI2NTY1ODk4MzExNDM0Mjkw.YGOVew.Ge98O0jCbwuulB3a3fz81_fiUh0"
 
 
 #Asynchronously deletes messages
